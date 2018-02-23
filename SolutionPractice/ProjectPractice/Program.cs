@@ -10,6 +10,7 @@ namespace ProjectPractice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
